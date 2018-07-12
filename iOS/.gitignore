@@ -1,0 +1,9 @@
+xcuserdata
+
+Pods/
+SDK/
+
+vendor/
+
+MEME-Info.plist
+GoogleService-Info.plist
